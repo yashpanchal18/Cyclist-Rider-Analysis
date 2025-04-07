@@ -22,7 +22,6 @@ This analysis helps the marketing team understand user behavior and develop camp
 - **Python** (Pandas, NumPy) – Data cleaning and feature engineering  
 - **Tableau** – Dashboard and visualization  
 - **Git & GitHub** – Version control  
-- *(SQL if used – optional)*
 
 ## Data Cleaning & Preparation
 - Converted time columns to datetime format  
